@@ -1,0 +1,751 @@
+Student_ID,Age,Gender,Academic_Level,Country,Avg_Daily_Usage_Hours,Most_Used_Platform,Affects_Academic_Performance,Sleep_Hours_Per_Night,Mental_Health_Score,Relationship_Status,Conflicts_Over_Social_Media,Addicted_Score
+1,25,Male,Student,Bangladesh,0.0,"Facebook, YouTube, LinkedIn",Yes,6,2.5555555555555554,Single,2,9.333333333333334
+2,25,Male,Student,Bangladesh,0.5,Facebook,No,6,6.444444444444445,Single,1,4.0
+3,25,Male,Student,Bangladesh,0.5,"Facebook, YouTube, Snapchat",Yes,6,6.222222222222222,Single,1,6.333333333333333
+4,25,Male,Student,Bangladesh,8.0,"Facebook, YouTube, LinkedIn",Yes,6,5.666666666666667,Single,4,9.333333333333334
+5,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,8,4.555555555555555,Single,2,7.083333333333333
+6,25,Female,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,6,4.222222222222223,Single,1,6.083333333333334
+7,25,Female,Student,Bangladesh,5.0,Facebook,Yes,6,3.4444444444444446,Single,4,9.0
+8,16,Male,Retired,Bangladesh,10.0,Snapchat,Yes,2,4.277777777777778,Single,1,4.083333333333333
+9,25,Female,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,6,6.555555555555555,In Relationship,1,7.25
+10,50,Male,Employed,Bangladesh,0.5,"Facebook, YouTube",Yes,6,5.777777777777779,Married,2,5.083333333333333
+11,25,Male,Employed,Bangladesh,2.0,"Facebook, YouTube, Whatsapp",No,6,2.7777777777777786,Married,1,8.833333333333334
+12,50,Male,Employed,Bangladesh,0.5,Facebook,No,6,6.277777777777778,Married,1,2.416666666666667
+13,25,Male,Student,Bangladesh,2.0,Instagram,No,6,5.0,In Relationship,1,5.083333333333333
+14,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,6,6.222222222222222,Single,1,4.666666666666667
+15,25,Male,Student,Bangladesh,2.0,YouTube,Yes,6,6.555555555555555,Single,1,5.083333333333333
+16,35,Male,Employed,Bangladesh,2.0,"Facebook, Instagram, YouTube, LinkedIn",No,8,6.444444444444445,Married,2,5.25
+17,35,Male,Employed,Bangladesh,5.0,Facebook,Yes,8,5.611111111111111,Married,2,8.333333333333332
+18,25,Male,Student,Bangladesh,5.0,Facebook,Yes,8,5.944444444444445,Single,1,7.083333333333333
+19,35,Male,Self-employed,Bangladesh,2.0,YouTube,No,6,6.777777777777778,Married,1,3.833333333333333
+20,35,Male,Unemployed,Bangladesh,5.0,"Facebook, YouTube",No,8,3.4444444444444446,Single,2,7.833333333333333
+21,25,Male,Student,Bangladesh,5.0,"Instagram, YouTube",Yes,6,7.055555555555555,Single,2,5.75
+22,25,Female,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,6,4.777777777777779,Single,2,6.416666666666666
+23,25,Male,Student,Bangladesh,2.0,Facebook,Yes,6,6.666666666666667,Single,1,5.25
+24,25,Male,Employed,Bangladesh,0.5,"Facebook, YouTube, LinkedIn",No,6,6.666666666666667,Single,1,2.9166666666666665
+25,25,Male,Student,Bangladesh,10.0,Facebook,Yes,6,3.3888888888888893,Single,1,7.083333333333333
+26,35,Female,Housewife,Bangladesh,5.0,"Facebook, YouTube",Yes,6,7.277777777777778,Married,1,5.666666666666666
+27,25,Female,Student,Bangladesh,0.5,"Facebook, YouTube",Yes,8,6.666666666666667,In Relationship,2,4.0
+28,25,Male,Student,Bangladesh,0.5,Facebook,Yes,6,6.222222222222222,Single,1,5.583333333333333
+29,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,6,6.222222222222222,In Relationship,1,4.5
+30,25,Male,Student,Bangladesh,8.0,YouTube,Yes,8,4.722222222222222,In Relationship,1,7.083333333333333
+31,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",Yes,6,7.055555555555555,Single,1,4.833333333333334
+32,35,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",No,6,5.888888888888889,Married,1,7.166666666666667
+33,25,Male,Employed,Bangladesh,10.0,"Facebook, YouTube, ",No,8,4.222222222222223,Married,1,6.833333333333333
+34,25,Male,Employed,Bangladesh,5.0,"Facebook, YouTube",No,6,3.166666666666666,Single,2,8.0
+35,35,Female,Employed,Bangladesh,2.0,Facebook,No,2,5.111111111111111,Married,1,6.5
+36,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,4,4.277777777777778,Single,3,8.5
+37,25,Male,Student,Bangladesh,2.0,YouTube,Yes,4,3.1111111111111107,Single,5,7.916666666666667
+38,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube",Yes,6,2.666666666666667,Single,3,7.416666666666666
+39,25,Male,Student,Bangladesh,5.0,Instagram,Yes,6,5.944444444444445,In Relationship,2,7.666666666666666
+40,25,Male,Business ,Bangladesh,2.0,"Facebook, YouTube",Yes,8,6.444444444444445,Married,1,3.083333333333333
+41,25,Male,Student,Bangladesh,10.0,"Facebook, YouTube",Yes,6,5.055555555555556,Single,3,7.833333333333333
+42,25,Male,Student,Bangladesh,8.0,"Facebook, Instagram, YouTube",Yes,6,3.2777777777777777,In Relationship,2,8.75
+43,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",Yes,4,2.333333333333334,Single,3,7.5
+44,25,Male,Employed,Bangladesh,5.0,"Facebook, Instagram",No,6,4.722222222222222,Married,2,7.0
+45,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube",Yes,6,4.333333333333334,Single,1,6.583333333333333
+46,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube, LinkedIn",No,6,6.555555555555555,Single,2,4.666666666666667
+47,35,Male,Self-employed,Bangladesh,0.5,"Facebook, YouTube",No,8,6.5,Married,1,2.25
+48,25,Female,Student,Bangladesh,5.0,Facebook,Yes,4,3.6111111111111107,Single,2,9.0
+49,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube, LinkedIn, Snapchat",Yes,6,4.222222222222223,Single,2,5.333333333333333
+50,25,Male,Student,Bangladesh,8.0,"Facebook, Instagram, YouTube",Yes,6,3.1111111111111107,Single,2,7.833333333333333
+51,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube",No,6,4.222222222222223,Single,1,5.833333333333333
+52,50,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",No,6,6.777777777777778,Married,1,2.25
+53,25,Female,Student,Bangladesh,5.0,Facebook,No,8,6.444444444444445,Married,1,8.0
+54,25,Male,Student,Bangladesh,10.0,Facebook,Yes,6,3.9444444444444446,Single,4,8.5
+55,35,Male,Employed,Bangladesh,8.0,"Facebook, YouTube",Yes,6,4.166666666666667,Married,3,7.5
+56,25,Male,Student,Bangladesh,8.0,"Facebook, Instagram, YouTube",Yes,8,1.6111111111111107,Single,3,8.833333333333334
+57,25,Female,Unemployed,Bangladesh,8.0,"Facebook, YouTube",No,6,2.7777777777777786,Married,1,7.75
+58,35,Male,Self-employed,Bangladesh,2.0,"Facebook, X/Twitter ",No,6,3.6111111111111107,Married,1,5.166666666666666
+59,25,Male,Employed,Bangladesh,5.0,"Facebook, YouTube",Yes,8,4.5,Married,3,7.416666666666666
+60,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube",Yes,6,3.2222222222222223,Single,2,6.916666666666666
+61,25,Female,Student,Bangladesh,10.0,"Facebook, YouTube",Yes,10,2.7222222222222223,Single,5,8.666666666666666
+62,25,Male,Student,Bangladesh,8.0,"Facebook, YouTube",Yes,8,6.0,Single,1,8.583333333333332
+63,25,Male,Employed,Bangladesh,2.0,"YouTube, LinkedIn",Yes,6,5.5,Single,2,3.666666666666667
+64,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,8,4.0,Single,1,7.666666666666666
+65,25,Male,Employed,Bangladesh,0.5,"Facebook, YouTube",No,6,7.611111111111111,Married,1,6.0
+66,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube",Yes,6,4.888888888888889,Single,3,8.166666666666666
+67,50,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",No,4,7.055555555555555,Married,3,5.583333333333333
+68,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,4,7.166666666666667,Single,2,5.583333333333333
+69,25,Male,Student,Bangladesh,0.5,YouTube,No,6,5.333333333333334,Married,1,5.75
+70,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram",Yes,6,4.111111111111111,Complicated,4,9.333333333333334
+71,25,Male,Employed,Bangladesh,5.0,"Facebook, YouTube, WhatsApp",Yes,6,4.222222222222223,Single,4,8.583333333333332
+72,35,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",No,6,6.388888888888889,Married,5,8.833333333333334
+73,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube",Yes,6,4.5,In Relationship,2,5.583333333333333
+74,25,Male,Employed,Bangladesh,5.0,"Facebook, YouTube, Telegram",No,6,4.722222222222222,Single,1,4.666666666666667
+75,50,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",No,6,8.666666666666666,Married,1,3.666666666666667
+76,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,6,5.333333333333334,Single,1,5.583333333333333
+77,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,8,5.444444444444445,Single,3,5.666666666666666
+78,25,Male,Student,Bangladesh,5.0,YouTube,No,6,5.388888888888889,Single,2,5.75
+79,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube, LinkedIn",Yes,4,3.0,Single,3,8.0
+80,16,Male,Student,Bangladesh,8.0,"Facebook, Instagram",Yes,8,5.722222222222222,Single,2,7.75
+81,25,Female,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube, LinkedIn",No,4,4.222222222222223,Single,2,7.833333333333333
+82,35,Male,Employed,Bangladesh,5.0,"Facebook, YouTube, LinkedIn",Yes,6,3.833333333333334,Married,3,6.75
+83,25,Male,Student,Bangladesh,2.0,YouTube,Yes,6,5.166666666666666,Single,3,4.25
+84,25,Male,Employed,Bangladesh,0.5,"Facebook, YouTube, LinkedIn",No,6,6.277777777777778,Married,1,6.166666666666667
+85,25,Male,Employed,Bangladesh,5.0,Facebook,No,6,4.388888888888889,Married,3,6.583333333333333
+86,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, Tiktok",Yes,8,4.055555555555555,In Relationship,5,6.25
+87,35,Male,Employed,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",No,6,5.0,Married,3,5.583333333333333
+88,25,Male,Student,Bangladesh,8.0,"YouTube, LinkedIn",Yes,10,4.722222222222222,Single,1,5.5
+89,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram, Tiktok, YouTube",No,8,3.666666666666667,In Relationship,2,5.25
+90,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube, LinkedIn",Yes,8,6.333333333333334,Single,2,6.083333333333334
+91,25,Female,Student,Bangladesh,8.0,"Facebook, Instagram",Yes,8,1.333333333333334,Single,1,8.5
+92,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube, Snapchat",No,6,4.833333333333334,Single,2,7.0
+93,25,Male,Employed,Bangladesh,5.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,6,4.166666666666667,Complicated,5,10.0
+94,35,Male,Unemployed,Bangladesh,8.0,"Facebook, YouTube",No,2,3.3888888888888893,Married,1,8.583333333333332
+95,35,Male,Employed,Bangladesh,5.0,"Facebook, YouTube",Yes,6,1.3888888888888893,Married,4,7.833333333333333
+96,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube",Yes,4,3.7222222222222223,Single,3,9.0
+97,25,Male,Student,Bangladesh,8.0,"Facebook, Instagram, YouTube",Yes,6,5.0,In Relationship,4,6.5
+98,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,6,5.166666666666666,Single,1,6.083333333333334
+99,25,Female,Student,Bangladesh,2.0,"Instagram, YouTube",Yes,4,4.444444444444445,Single,1,6.166666666666666
+100,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube, LinkedIn",Yes,6,6.666666666666667,Single,1,5.583333333333333
+101,35,Male,Employed,Bangladesh,8.0,"Facebook, YouTube",No,8,6.111111111111111,Single,2,5.083333333333333
+102,25,Female,Student,Bangladesh,10.0,"Facebook, Instagram, YouTube",Yes,2,2.666666666666667,Single,5,10.0
+103,25,Male,Student,Bangladesh,5.0,YouTube,Yes,6,5.944444444444445,Single,1,7.416666666666666
+104,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, Tiktok, YouTube, LinkedIn",Yes,6,4.611111111111112,Single,1,6.583333333333333
+105,25,Male,Employed,Bangladesh,0.5,"YouTube, LinkedIn",No,6,6.055555555555555,Single,1,5.083333333333333
+106,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,6,3.166666666666666,Single,2,7.25
+107,25,Male,Employed,Bangladesh,2.0,YouTube,Yes,8,6.277777777777778,Single,1,4.5
+108,25,Male,Employed,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",No,6,6.388888888888889,Married,2,5.75
+109,35,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",Yes,8,4.055555555555555,Married,1,7.833333333333333
+110,25,Male,Student,Bangladesh,2.0,YouTube,Yes,6,4.944444444444445,Single,1,5.333333333333333
+111,50,Male,Employed,Bangladesh,5.0,"Facebook, LinkedIn",No,6,5.777777777777779,Married,2,5.083333333333333
+112,25,Male,Student,Bangladesh,0.5,"YouTube, Telegram",No,6,6.388888888888889,Single,1,4.0
+113,25,Female,Student,Bangladesh,0.5,YouTube,No,6,6.333333333333334,Single,1,6.0
+114,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,8,5.0,Single,3,9.333333333333334
+115,25,Female,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,6,3.5,Single,2,5.833333333333333
+116,25,Male,Student,Bangladesh,8.0,Facebook,Yes,4,4.166666666666667,Single,3,7.75
+117,16,Male,Student,Bangladesh,5.0,Facebook,Yes,4,5.444444444444445,Single,4,5.416666666666666
+118,35,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",No,8,3.3888888888888893,Married,5,9.166666666666668
+119,25,Female,Student,Bangladesh,5.0,"Facebook, YouTube",No,8,5.5,Married,4,8.083333333333334
+120,25,Male,Student,Bangladesh,2.0,YouTube,Yes,4,5.277777777777778,Single,2,7.916666666666667
+121,25,Female,Student,Bangladesh,0.0,YouTube,No,6,4.833333333333333,Married,1,5.0
+122,25,Female,Student,Bangladesh,8.0,"Facebook, YouTube",Yes,2,2.9444444444444446,Single,2,8.083333333333334
+123,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube",Yes,4,4.111111111111111,In Relationship,2,8.5
+124,25,Male,Employed,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",No,6,3.0555555555555554,Married,3,5.666666666666666
+125,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",No,6,6.388888888888889,Single,1,4.166666666666666
+126,25,Female,Unemployed,Bangladesh,5.0,"Facebook, Instagram, YouTube",Yes,6,3.7222222222222223,Complicated,1,9.166666666666668
+127,25,Female,Student,Bangladesh,10.0,"Facebook, Instagram, Netmirror",Yes,10,2.5,In Relationship,5,10.0
+128,25,Female,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,6,4.555555555555555,Single,2,5.583333333333333
+129,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",Yes,4,3.6111111111111107,Single,2,7.0
+130,25,Female,Student,Bangladesh,2.0,"Facebook, Instagram",No,8,4.166666666666667,Single,1,3.5
+131,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,6,4.777777777777778,In Relationship,1,9.166666666666668
+132,25,Male,Student,Bangladesh,0.5,YouTube,Yes,6,7.333333333333334,Single,1,3.5
+133,25,Female,Self-employed,Bangladesh,10.0,Tiktok,Yes,6,2.833333333333333,Complicated,4,8.583333333333332
+134,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",Yes,8,4.833333333333334,In Relationship,1,6.083333333333334
+135,25,Female,Student,Bangladesh,0.5,"Facebook, Instagram, Tiktok, YouTube, LinkedIn, Snapchat",No,2,5.111111111111112,Single,1,5.75
+136,25,Male,Employed,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",No,6,4.388888888888889,Married,2,6.916666666666666
+137,25,Female,Employed,Bangladesh,5.0,Facebook,Yes,6,4.333333333333334,Single,1,6.25
+138,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",No,8,6.388888888888889,Single,2,3.666666666666667
+139,25,Male,Student,Bangladesh,5.0,YouTube,Yes,6,4.111111111111112,In Relationship,2,5.916666666666667
+140,25,Male,Self-employed,Bangladesh,2.0,"Facebook, YouTube",No,4,3.7222222222222214,Single,1,6.75
+141,25,Male,Student,Bangladesh,0.5,"Facebook, LinkedIn",No,6,6.888888888888889,Single,1,6.0
+142,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",No,8,7.5,In Relationship,1,5.25
+143,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,6,4.5,Married,1,8.5
+144,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,6,5.888888888888889,Single,2,6.25
+145,25,Female,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube",Yes,8,2.5555555555555562,Single,3,4.916666666666666
+146,25,Female,Employed,Bangladesh,5.0,"Facebook, YouTube, LinkedIn",No,8,3.4444444444444446,Single,1,6.25
+147,25,Male,Student,Bangladesh,8.0,"Facebook, Instagram, YouTube",Yes,4,4.5,Single,1,6.583333333333333
+148,50,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",Yes,6,6.0,Married,2,6.166666666666667
+149,25,Male,Employed,Bangladesh,5.0,"Facebook, YouTube",No,6,3.4444444444444446,Single,1,9.0
+150,25,Male,Student,Bangladesh,0.5,YouTube,No,6,4.055555555555555,Single,1,4.5
+151,50,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",No,6,6.222222222222222,Married,2,4.916666666666667
+152,25,Male,Student,Bangladesh,0.5,YouTube,No,6,6.388888888888889,Single,1,2.75
+153,25,Male,Employed,Bangladesh,2.0,"Facebook, Instagram, Tiktok, YouTube, LinkedIn",Yes,6,3.5,Married,5,7.75
+154,25,Female,Student,Bangladesh,10.0,Facebook,Yes,6,1.8888888888888893,Married,3,7.583333333333334
+155,25,Male,Student,Bangladesh,10.0,"Facebook, Instagram, YouTube, LinkedIn",No,6,5.111111111111111,Single,1,4.5
+156,25,Male,Student,Bangladesh,0.5,Twitter,No,6,6.555555555555555,Single,1,4.0
+157,35,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",Yes,6,6.611111111111112,Married,1,7.5
+158,25,Male,Employed,Bangladesh,5.0,"Facebook, YouTube, LinkedIn",Yes,6,5.611111111111111,Single,1,6.416666666666666
+159,25,Male,Unemployed,Bangladesh,5.0,"Facebook, YouTube",Yes,4,6.0,In Relationship,1,6.916666666666666
+160,25,Female,Self-employed,Bangladesh,5.0,YouTube,No,6,6.222222222222222,Single,1,4.916666666666667
+161,25,Male,Unemployed,Bangladesh,0.5,"YouTube, LinkedIn",Yes,8,6.166666666666667,Single,2,4.166666666666666
+162,25,Male,Student,Bangladesh,0.5,"Instagram, YouTube",No,6,6.888888888888889,In Relationship,1,5.25
+163,25,Male,Student,Bangladesh,10.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,4,3.7777777777777786,In Relationship,5,8.75
+164,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube",Yes,6,4.5,Single,1,3.9166666666666665
+165,35,Male,Self-employed,Bangladesh,0.5,"Facebook, YouTube, LinkedIn",No,8,7.0,Married,1,3.5
+166,25,Male,Employed,Bangladesh,5.0,"Facebook, LinkedIn",No,6,5.555555555555555,Married,1,5.916666666666667
+167,25,Male,Student,Bangladesh,8.0,"Facebook, Instagram, YouTube",Yes,6,3.2222222222222223,Complicated,1,6.583333333333333
+168,25,Male,Student,Bangladesh,0.5,Facebook,No,6,7.333333333333334,Single,1,2.25
+169,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",No,6,6.277777777777778,Single,2,7.0
+170,25,Female,Unemployed,Bangladesh,0.5,Whats up,No,4,5.277777777777778,Single,1,4.25
+171,25,Male,Self-employed,Bangladesh,2.0,"YouTube, LinkedIn",Yes,2,4.444444444444445,Single,2,4.833333333333334
+172,25,Male,Self-employed,Bangladesh,10.0,Facebook,No,6,4.222222222222223,Married,1,8.75
+173,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,6,6.666666666666667,Single,1,1.0
+174,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,6,3.6111111111111107,Complicated,1,5.583333333333333
+175,35,Male,Employed,Bangladesh,0.5,"Facebook, YouTube",Yes,6,7.611111111111111,Married,1,3.833333333333333
+176,25,Male,Employed,Bangladesh,2.0,"Facebook, Instagram",Yes,6,6.055555555555555,Single,2,4.333333333333333
+177,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube",Yes,2,4.777777777777778,Single,3,7.666666666666666
+178,50,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",No,6,5.388888888888889,Married,1,3.833333333333333
+179,25,Male,Student,Bangladesh,8.0,"Facebook, Instagram, YouTube",Yes,4,2.6111111111111107,Married,2,8.5
+180,25,Male,Student,Bangladesh,5.0,"YouTube, LinkedIn, What's app, messenger ",Yes,6,3.3888888888888893,Single,1,9.333333333333334
+181,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram, Tiktok, YouTube",Yes,6,1.6666666666666679,Single,1,7.583333333333334
+182,25,Male,Employed,Bangladesh,10.0,"Facebook, YouTube",Yes,10,5.333333333333333,Single,5,6.833333333333334
+183,35,Female,Employed,Bangladesh,10.0,"Facebook, Instagram, Tiktok, YouTube",Yes,6,4.5,Married,2,5.5
+184,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,6,4.388888888888889,Single,1,7.083333333333333
+185,25,Male,Student,Bangladesh,0.5,X (Twitter),No,6,7.111111111111112,Single,2,3.083333333333333
+186,25,Male,Employed,Bangladesh,5.0,"Facebook, X.com",Yes,6,4.611111111111112,Single,2,6.416666666666666
+187,25,Male,Student,Bangladesh,8.0,"Facebook, Instagram, YouTube",Yes,6,4.944444444444445,Single,1,4.916666666666667
+188,25,Male,Employed,Bangladesh,0.5,"Facebook, YouTube, LinkedIn",No,6,6.0,Married,3,4.833333333333334
+189,25,Male,Employed,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",No,4,6.444444444444445,Single,1,5.416666666666666
+190,25,Male,Student,Bangladesh,5.0,YouTube,Yes,4,3.833333333333334,Single,3,8.083333333333334
+191,25,Male,Employed,Bangladesh,5.0,"Facebook, Instagram, Tiktok, YouTube",Yes,6,3.333333333333334,Married,3,7.25
+192,25,Female,Student,Bangladesh,8.0,"Facebook, YouTube",Yes,4,4.166666666666667,Single,1,7.25
+193,25,Male,Student,Bangladesh,2.0,YouTube,Yes,6,5.611111111111111,Single,1,5.916666666666667
+194,16,Female,Student,Bangladesh,2.0,YouTube,Yes,6,3.4444444444444446,Single,1,8.666666666666666
+195,25,Male,Employed,Bangladesh,2.0,YouTube,No,6,7.166666666666667,Married,1,6.666666666666666
+196,25,Male,Student,Bangladesh,2.0,YouTube,No,6,6.888888888888889,In Relationship,2,4.0
+197,25,Male,Student,Bangladesh,5.0,Facebook,Yes,6,3.4444444444444446,Single,1,6.75
+198,25,Male,Student,Bangladesh,10.0,"Facebook, YouTube, Snapchat",No,4,1.6666666666666679,Single,5,9.0
+199,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube",No,8,4.555555555555555,Single,1,4.833333333333334
+200,35,Male,Employed,Bangladesh,2.0,"Facebook, ",Yes,6,5.444444444444445,Married,2,4.916666666666667
+201,25,Male,Unemployed,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",No,6,5.611111111111111,Single,1,5.416666666666666
+202,25,Male,Self-employed,Bangladesh,5.0,"Facebook, YouTube",Yes,8,4.277777777777778,Married,2,8.166666666666666
+203,25,Male,Self-employed,Bangladesh,8.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,6,2.7222222222222223,Single,4,10.0
+204,25,Male,Employed,Bangladesh,2.0,"Instagram, LinkedIn, ResearchGate",Yes,4,5.388888888888889,Single,1,6.333333333333333
+205,25,Female,Student,Bangladesh,8.0,"Facebook, Instagram, Chat gpt",Yes,4,3.7222222222222223,In Relationship,2,7.166666666666667
+206,35,Male,Employed,Bangladesh,10.0,"Facebook, Instagram, YouTube, LinkedIn, Twitter ",No,6,7.611111111111111,Married,1,5.25
+207,25,Female,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,6,6.0,In Relationship,2,7.25
+208,35,Male,Employed,Bangladesh,5.0,Facebook,Yes,6,4.611111111111112,Married,4,6.083333333333334
+209,25,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",No,6,2.6111111111111107,Single,3,6.583333333333333
+210,25,Male,Student,Bangladesh,5.0,Facebook,Yes,8,5.388888888888889,In Relationship,1,6.583333333333333
+211,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,6,2.9444444444444446,Single,1,8.5
+212,25,Female,Employed,Bangladesh,2.0,"Facebook, Instagram, LinkedIn",Yes,6,5.666666666666667,Married,3,6.583333333333333
+213,35,Male,Employed,Bangladesh,8.0,Facebook,No,6,4.333333333333334,Married,4,9.333333333333334
+214,25,Male,Employed,Bangladesh,2.0,"Facebook, Instagram, YouTube",No,8,4.5,In Relationship,1,5.0
+215,25,Male,Unemployed,Bangladesh,5.0,"Facebook, YouTube",No,6,6.833333333333333,Single,2,5.583333333333333
+216,25,Male,Employed,Bangladesh,2.0,Facebook,Yes,2,2.5555555555555554,Married,1,7.0
+217,25,Male,Employed,Bangladesh,2.0,"Facebook, Instagram, YouTube, LinkedIn",No,6,3.8888888888888893,In Relationship,2,7.166666666666667
+218,35,Male,Employed,Bangladesh,5.0,YouTube,No,8,5.666666666666667,Married,3,4.75
+219,25,Male,Student,Bangladesh,2.0,"YouTube, Twitter",Yes,6,4.333333333333334,Single,2,6.583333333333333
+220,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube, LinkedIn",No,8,5.333333333333334,Single,1,5.833333333333333
+221,25,Female,Student,Bangladesh,2.0,Facebook,Yes,6,5.722222222222222,Single,1,5.916666666666667
+222,25,Male,Employed,Bangladesh,2.0,YouTube,Yes,6,7.0,Married,1,3.833333333333333
+223,50,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",No,4,6.333333333333334,Married,1,5.416666666666666
+224,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,4.833333333333334,Single,1,5.583333333333333
+225,25,Male,Student,Bangladesh,8.0,Facebook,Yes,4,3.0,Single,2,7.916666666666667
+226,25,Female,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,6,5.777777777777779,Married,1,6.416666666666666
+227,25,Male,Unemployed,Bangladesh,5.0,Facebook,No,8,6.333333333333334,In Relationship,2,7.333333333333334
+228,70,Male,Retired,Bangladesh,2.0,"Facebook, Instagram",Yes,4,5.666666666666667,Married,5,5.583333333333333
+229,25,Male,Student,Bangladesh,8.0,"Facebook, Instagram, YouTube",Yes,6,2.9444444444444446,In Relationship,4,9.166666666666668
+230,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,6,6.222222222222222,Married,1,6.833333333333333
+231,25,Female,Student,Bangladesh,8.0,"Facebook, YouTube, messenger,What's app ",Yes,4,2.7222222222222214,Complicated,5,8.25
+232,25,Male,Student,Bangladesh,8.0,Facebook,No,10,4.611111111111112,Single,2,7.25
+233,35,Male,Employed,Bangladesh,2.0,"Facebook, LinkedIn",No,6,6.111111111111111,Married,3,4.0
+234,25,Male,Employed,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",No,6,4.388888888888889,Married,2,7.166666666666667
+235,16,Male,Student,Bangladesh,8.0,"Facebook, Instagram",Yes,6,2.833333333333333,In Relationship,3,8.416666666666668
+236,35,Male,Employed,Bangladesh,5.0,"Facebook, Instagram, YouTube, LinkedIn",No,6,4.722222222222222,In Relationship,1,7.083333333333333
+237,25,Female,Student,Bangladesh,2.0,Facebook,Yes,8,5.166666666666666,Single,1,5.666666666666666
+238,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,8,3.666666666666667,In Relationship,1,4.833333333333334
+239,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube, LinkedIn, Online Games ",Yes,6,6.444444444444445,Single,1,5.583333333333333
+240,25,Male,Student,Bangladesh,2.0,Facebook,Yes,4,6.444444444444445,Single,2,5.583333333333333
+241,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,6,6.0,Single,2,4.666666666666667
+242,50,Male,Employed,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",No,6,4.388888888888889,Married,2,4.666666666666667
+243,25,Female,Student,Bangladesh,5.0,Facebook,Yes,8,2.666666666666667,Married,3,10.0
+244,50,Male,Employed,Bangladesh,2.0,Facebook,Yes,6,4.333333333333334,Married,4,8.333333333333332
+245,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",Yes,6,4.333333333333334,Single,1,6.25
+246,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube, LinkedIn",No,8,4.444444444444445,Single,1,8.5
+247,25,Female,Student,Bangladesh,8.0,"Facebook, Instagram, YouTube",Yes,8,3.7222222222222223,Single,1,8.5
+248,25,Male,Employed,Bangladesh,5.0,"Facebook, Instagram, Tiktok, YouTube",Yes,4,4.5,Single,1,5.5
+249,50,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",No,6,3.0,Married,2,6.583333333333333
+250,25,Male,Employed,Bangladesh,2.0,"Facebook, Instagram, Tiktok, YouTube, LinkedIn",No,6,5.777777777777779,Married,2,5.25
+251,25,Male,Employed,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",Yes,6,5.444444444444445,Single,1,6.083333333333334
+252,25,Female,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube, WhatsApp , Messenger ",Yes,6,4.666666666666667,Single,1,8.583333333333332
+253,25,Male,Employed,Bangladesh,2.0,YouTube,No,6,5.5,Married,2,4.666666666666667
+254,25,Male,Student,Bangladesh,8.0,"Facebook, YouTube",Yes,8,2.666666666666667,Married,5,8.75
+255,25,Female,Unemployed,Bangladesh,2.0,Facebook,No,2,5.5,Married,2,6.25
+256,25,Female,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,4,4.444444444444445,Married,1,6.416666666666666
+257,25,Female,Student,Bangladesh,0.0,YouTube,Yes,6,7.333333333333334,Married,1,1.1666666666666667
+258,25,Male,Employed,Bangladesh,5.0,"Facebook, YouTube",Yes,6,3.9444444444444446,Married,2,8.166666666666666
+259,35,Male,Employed,Bangladesh,0.5,YouTube,No,6,4.833333333333334,Married,2,4.666666666666667
+260,35,Male,Self-employed,Bangladesh,2.0,"Facebook, Instagram",No,8,6.333333333333334,Married,2,4.916666666666667
+261,25,Male,Employed,Bangladesh,0.5,"Facebook, YouTube",No,4,7.0,Single,1,6.083333333333334
+262,12,Male,Employed,Bangladesh,5.0,"Facebook, Chrome browser movie dekha ",No,6,0.8333333333333321,Single,5,7.25
+263,25,Female,Student,Bangladesh,5.0,YouTube,Yes,4,6.222222222222222,Single,3,5.666666666666666
+264,25,Female,Unemployed,Bangladesh,0.5,"YouTube, LinkedIn",No,6,7.111111111111112,Married,1,3.666666666666667
+265,25,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",Yes,8,3.8888888888888893,Single,1,3.833333333333333
+266,35,Male,Employed,Bangladesh,0.5,"Facebook, YouTube, LinkedIn",No,6,2.333333333333334,Married,3,4.416666666666666
+267,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",Yes,6,4.944444444444445,Single,1,6.583333333333333
+268,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube",Yes,8,6.888888888888889,In Relationship,2,4.916666666666667
+269,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,6,4.777777777777778,Single,1,8.75
+270,25,Female,Student,Bangladesh,10.0,"Facebook, YouTube",Yes,10,2.666666666666667,Married,4,7.083333333333333
+271,25,Female,Student,Bangladesh,10.0,"Facebook, Instagram, Tiktok",Yes,6,6.5,Single,1,5.75
+272,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,6,5.055555555555555,Single,1,7.5
+273,25,Male,Student,Bangladesh,8.0,"Facebook, YouTube",Yes,6,2.7777777777777786,Single,3,10.0
+274,25,Female,Student,Bangladesh,0.5,YouTube,No,6,5.0,In Relationship,2,4.833333333333334
+275,25,Female,Student,Bangladesh,0.5,YouTube,Yes,6,6.777777777777778,Married,1,2.9166666666666665
+276,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube",Yes,8,5.5,Single,2,7.666666666666666
+277,25,Female,Student,Bangladesh,5.0,Facebook,Yes,6,6.833333333333333,Single,2,6.5
+278,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram",Yes,4,2.666666666666667,Single,3,8.583333333333332
+279,25,Male,Student,Bangladesh,10.0,"Facebook, YouTube",Yes,4,3.5,Single,1,7.916666666666667
+280,25,Female,Student,Bangladesh,2.0,Facebook,No,8,6.666666666666667,Single,1,5.25
+281,16,Female,Student,Bangladesh,5.0,Facebook,No,6,5.944444444444445,Single,1,5.916666666666667
+282,25,Male,Student,Bangladesh,2.0,Facebook,Yes,4,6.5,Single,2,4.916666666666667
+283,25,Female,Student,Bangladesh,8.0,Facebook,Yes,8,5.5,In Relationship,2,8.75
+284,25,Male,Student,Bangladesh,5.0,Instagram,Yes,6,6.222222222222222,Single,3,7.833333333333333
+285,25,Male,Employed,Bangladesh,0.5,Facebook,Yes,4,7.111111111111112,Married,1,4.166666666666666
+286,25,Male,Student,Bangladesh,0.5,"Facebook, YouTube",Yes,6,7.055555555555555,Single,2,5.583333333333333
+287,25,Male,Student,Bangladesh,0.0,YouTube,Yes,6,5.333333333333334,Single,1,3.666666666666667
+288,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",No,6,6.777777777777778,Single,1,4.916666666666667
+289,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,6,4.166666666666667,Single,2,7.416666666666666
+290,25,Male,Employed,Bangladesh,2.0,YouTube,Yes,6,4.333333333333334,Married,5,4.833333333333334
+291,25,Male,Student,Bangladesh,5.0,Facebook,Yes,4,3.9444444444444446,Single,1,7.666666666666666
+292,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube",No,6,6.777777777777778,Single,1,3.833333333333333
+293,25,Male,Student,Bangladesh,0.5,Facebook,Yes,6,6.111111111111111,Single,3,5.416666666666666
+294,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube",No,6,0.7777777777777786,Single,3,8.5
+295,25,Male,Student,Bangladesh,2.0,Facebook,Yes,6,7.111111111111112,Single,1,5.25
+296,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,6,6.611111111111112,Single,2,6.75
+297,25,Female,Student,Bangladesh,8.0,"Facebook, YouTube",Yes,6,5.166666666666667,Single,4,6.75
+298,25,Female,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,6,3.4444444444444446,Single,1,7.75
+299,25,Female,Student,Bangladesh,5.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.5
+300,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram",Yes,8,3.3888888888888893,Single,5,8.5
+301,25,Female,Student,Bangladesh,5.0,Facebook,Yes,6,7.611111111111111,Single,2,4.5
+302,25,Female,Student,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",Yes,4,2.3888888888888884,In Relationship,1,8.666666666666666
+303,25,Male,Student,Bangladesh,2.0,Facebook,Yes,6,6.5,Single,1,3.75
+304,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,4,4.277777777777778,Complicated,2,7.75
+305,50,Male,Employed,Bangladesh,5.0,Facebook,Yes,6,5.555555555555555,Married,2,5.25
+306,25,Female,Student,Bangladesh,2.0,"Facebook, Instagram",Yes,6,5.888888888888889,Single,1,4.166666666666666
+307,25,Male,Student,Bangladesh,8.0,Facebook,Yes,4,5.888888888888889,Single,4,4.75
+308,25,Male,Student,Bangladesh,8.0,"Facebook, YouTube",Yes,6,3.6111111111111107,Complicated,3,8.0
+309,25,Male,Student,Bangladesh,2.0,Facebook,Yes,6,6.888888888888889,Single,1,4.166666666666666
+310,25,Female,Student,Bangladesh,2.0,"Facebook, Instagram",Yes,6,4.888888888888889,Single,4,9.0
+311,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube, LinkedIn",Yes,6,4.388888888888889,Single,3,6.75
+312,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube, Discord ",Yes,4,4.222222222222223,Single,1,8.583333333333332
+313,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube, LinkedIn",Yes,6,4.444444444444445,Single,1,8.0
+314,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,6,5.333333333333334,Single,2,7.666666666666666
+315,25,Male,Student,Bangladesh,0.0,YouTube,No,4,6.388888888888889,Single,1,4.0
+316,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube",Yes,6,5.388888888888889,Single,1,6.666666666666666
+317,25,Male,Student,Bangladesh,10.0,Facebook,Yes,4,4.166666666666667,Complicated,2,10.0
+318,25,Female,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,6,4.666666666666667,Single,2,7.75
+319,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,8,4.611111111111112,Single,1,7.333333333333334
+320,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,6,3.666666666666667,Single,3,7.833333333333333
+321,25,Male,Student,Bangladesh,10.0,"Facebook, YouTube",Yes,6,5.444444444444445,Single,1,5.083333333333333
+322,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,4,6.166666666666667,Single,2,6.75
+323,25,Male,Student,Bangladesh,0.5,"YouTube, LinkedIn, Chrome ",Yes,6,7.222222222222222,Single,1,4.333333333333333
+324,25,Male,Student,Bangladesh,2.0,"YouTube, LinkedIn, Chrome ",No,6,8.555555555555555,Single,1,4.0
+325,25,Male,Student,Bangladesh,2.0,Facebook,Yes,6,2.9444444444444446,Single,4,6.75
+326,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,6,2.3888888888888884,Single,3,8.166666666666666
+327,25,Female,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,6,3.666666666666667,Single,2,8.0
+328,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube",Yes,8,3.8888888888888893,Single,1,8.0
+329,25,Male,Student,Bangladesh,8.0,"Facebook, Instagram, YouTube",Yes,8,2.7222222222222214,Single,2,8.0
+330,25,Male,Student,Bangladesh,5.0,Instagram,Yes,4,3.7777777777777786,Single,3,8.583333333333332
+331,35,Male,Employed,Bangladesh,5.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,6,4.722222222222222,Single,1,5.583333333333333
+332,25,Female,Student,Bangladesh,2.0,Facebook,Yes,4,5.833333333333334,Single,1,5.416666666666666
+333,25,Female,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube",No,6,4.666666666666667,Single,1,6.416666666666666
+334,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube",Yes,6,5.777777777777779,In Relationship,3,8.0
+335,25,Female,Student,Bangladesh,2.0,Facebook,Yes,6,4.777777777777779,Single,1,7.25
+336,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,4,4.5,Single,4,6.916666666666666
+337,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,6,5.777777777777779,Single,2,6.25
+338,50,Male,Employed,Bangladesh,2.0,"Facebook, YouTube",Yes,8,4.611111111111112,Married,3,8.5
+339,25,Female,Student,Bangladesh,10.0,"Facebook, Instagram, YouTube",Yes,8,3.2222222222222223,Married,1,7.583333333333334
+340,25,Male,Student,Bangladesh,8.0,Facebook,No,8,7.0,Single,1,3.5
+341,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube",Yes,6,4.388888888888889,Single,2,7.833333333333333
+342,25,Male,Student,Bangladesh,10.0,"Facebook, Instagram, YouTube",Yes,6,3.3888888888888893,In Relationship,4,8.083333333333334
+343,25,Female,Self-employed,Bangladesh,5.0,"YouTube, What's up ",No,2,3.3888888888888893,Single,1,6.833333333333334
+344,25,Female,Student,Bangladesh,8.0,"Facebook, Instagram",Yes,4,4.611111111111112,Single,2,7.083333333333333
+345,25,Female,Student,Bangladesh,10.0,Facebook,Yes,6,2.5,Single,5,8.75
+346,25,Male,Student,Bangladesh,0.5,YouTube,No,6,4.777777777777779,Single,1,5.0
+347,25,Female,Student,Bangladesh,8.0,Facebook,Yes,4,2.5555555555555562,Single,2,7.666666666666666
+348,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",No,6,7.166666666666667,Single,3,4.166666666666666
+349,25,Female,Student,Bangladesh,2.0,"YouTube, WhatsApp ",Yes,6,5.722222222222222,Complicated,1,4.5
+350,35,Female,Self-employed,Bangladesh,8.0,"Facebook, YouTube",No,6,5.055555555555555,Married,1,5.333333333333333
+351,25,Male,Student,Bangladesh,2.0,YouTube,Yes,6,5.055555555555555,Single,2,7.5
+352,25,Female,Student,Bangladesh,5.0,"Facebook, YouTube, Whatsapp messenger telegram ",Yes,4,4.0,Married,3,7.416666666666666
+353,25,Male,Student,Bangladesh,2.0,YouTube,Yes,6,4.0,Single,1,2.25
+354,25,Male,Student,Bangladesh,5.0,"Facebook, YouTube",Yes,4,4.166666666666667,Single,3,7.25
+355,35,Male,Employed,Bangladesh,0.5,"Facebook, YouTube",No,6,7.388888888888889,Married,2,5.083333333333333
+356,25,Male,Self-employed,Bangladesh,8.0,"Facebook, YouTube",Yes,6,7.0,Married,3,5.5
+357,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube",Yes,6,5.833333333333334,Single,3,7.666666666666666
+358,25,Female,Student,Bangladesh,2.0,Facebook,No,6,6.277777777777778,Single,1,4.0
+359,25,Male,Student,Bangladesh,0.5,YouTube,Yes,6,6.777777777777778,Single,5,3.5833333333333335
+360,25,Female,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube",Yes,6,5.277777777777778,Single,3,7.75
+361,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube, ",Yes,4,4.388888888888889,Single,2,6.583333333333333
+362,25,Male,Student,Bangladesh,8.0,"Facebook, YouTube",Yes,6,3.7222222222222223,Single,2,8.416666666666668
+363,25,Male,Student,Bangladesh,5.0,"Facebook, Instagram, YouTube, LinkedIn",Yes,4,3.0,Single,2,6.5
+364,35,Male,Employed,Bangladesh,5.0,"Facebook, YouTube, LinkedIn",Yes,6,4.611111111111112,Married,3,6.916666666666666
+365,35,Male,Employed,Bangladesh,0.5,"Facebook, Instagram, YouTube, LinkedIn",No,6,4.611111111111112,Married,1,6.416666666666666
+366,25,Male,Student,Bangladesh,5.0,Facebook,Yes,8,4.388888888888889,Single,1,6.416666666666666
+367,25,Male,Student,Bangladesh,2.0,"Facebook, YouTube, Messenger ",Yes,6,2.7777777777777786,Single,4,10.0
+368,25,Male,Student,Bangladesh,8.0,"Facebook, YouTube",Yes,6,3.7222222222222214,In Relationship,2,6.75
+369,25,Female,Unemployed,Bangladesh,10.0,Facebook,Yes,6,2.666666666666667,Married,5,8.75
+370,25,Female,Student,Bangladesh,8.0,Instagram,No,8,7.277777777777778,Single,1,4.916666666666667
+371,25,Male,Student,Bangladesh,2.0,"Facebook, Instagram, YouTube",Yes,8,4.944444444444445,Single,3,8.416666666666668
+372,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,1.333333333333334,In Relationship,4,10.0
+373,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,1.333333333333334,In Relationship,4,10.0
+374,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,1.333333333333334,In Relationship,4,10.0
+375,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,1.333333333333334,In Relationship,4,10.0
+376,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,1.333333333333334,In Relationship,4,10.0
+377,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,1.333333333333334,In Relationship,4,10.0
+378,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,1.333333333333334,In Relationship,4,10.0
+379,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,1.333333333333334,In Relationship,4,10.0
+380,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,1.333333333333334,In Relationship,4,10.0
+381,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,1.333333333333334,In Relationship,4,10.0
+382,25,Male,Student,Bangladesh,5.0,Facebook,Yes,6,1.0,In Relationship,4,6.5
+383,25,Male,Employed,Bangladesh,8.0,Facebook,Yes,10,0.44444444444444464,Single,5,10.0
+384,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+385,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+386,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+387,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+388,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+389,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+390,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+391,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+392,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+393,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+394,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+395,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+396,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+397,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+398,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+399,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+400,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+401,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+402,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+403,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+404,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+405,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+406,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+407,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+408,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+409,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+410,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+411,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+412,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+413,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+414,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+415,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+416,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+417,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+418,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+419,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+420,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+421,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+422,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+423,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+424,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+425,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+426,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+427,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+428,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+429,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+430,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+431,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+432,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+433,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+434,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+435,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+436,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+437,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+438,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+439,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+440,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+441,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+442,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+443,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+444,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+445,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+446,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+447,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+448,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+449,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+450,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+451,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+452,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+453,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+454,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+455,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+456,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+457,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+458,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+459,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+460,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+461,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+462,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+463,25,Male,Student,Bangladesh,8.0,Facebook,Yes,6,3.5555555555555554,Single,3,8.083333333333334
+464,35,Female,Housewife,Bangladesh,8.0,YouTube,Yes,8,0.8333333333333321,Married,5,8.75
+465,16,Female,Student,Bangladesh,10.0,Facebook,Yes,10,0.8333333333333321,Single,5,9.666666666666668
+466,50,Male,Employed,Bangladesh,10.0,Facebook,Yes,6,1.166666666666666,Complicated,5,9.833333333333332
+467,35,Male,Self-employed,Bangladesh,8.0,Facebook,Yes,8,2.0,Married,5,9.666666666666668
+468,16,Female,Student,Bangladesh,10.0,Instagram,Yes,10,1.0555555555555554,In Relationship,5,10.0
+469,50,Male,Retired,Bangladesh,10.0,Facebook,Yes,10,0.8333333333333321,Married,5,10.0
+470,35,Female,Employed,Bangladesh,10.0,YouTube,Yes,8,0.8333333333333321,Married,5,10.0
+471,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+472,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+473,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+474,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+475,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+476,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+477,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+478,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+479,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+480,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+481,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+482,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+483,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+484,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+485,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+486,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+487,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+488,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+489,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+490,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+491,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+492,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+493,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+494,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+495,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+496,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+497,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+498,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+499,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+500,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+501,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+502,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+503,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+504,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+505,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+506,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+507,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+508,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+509,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+510,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+511,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+512,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+513,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+514,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+515,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+516,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+517,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+518,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+519,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+520,16,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7777777777777786,Single,3,8.75
+521,25,Female,Employed,Bangladesh,10.0,Tiktok,Yes,10,3.6111111111111107,Single,4,6.5
+522,25,Male,Student,Bangladesh,8.0,"Facebook, Instagram",No,8,2.4444444444444446,In Relationship,2,10.0
+523,25,Male,Student,Bangladesh,10.0,Facebook,Yes,8,0.44444444444444464,Single,4,7.916666666666667
+524,35,Male,Student,Bangladesh,8.0,Facebook,No,10,1.5,Single,3,9.166666666666668
+525,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+526,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+527,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+528,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+529,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+530,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+531,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+532,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+533,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+534,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+535,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+536,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+537,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+538,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+539,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+540,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+541,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+542,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+543,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+544,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+545,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+546,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+547,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+548,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+549,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+550,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+551,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+552,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+553,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+554,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+555,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+556,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+557,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+558,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+559,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+560,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+561,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+562,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+563,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+564,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+565,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+566,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+567,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+568,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+569,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+570,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+571,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+572,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+573,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+574,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+575,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+576,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+577,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+578,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+579,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+580,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+581,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+582,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+583,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+584,25,Male,Student,Bangladesh,8.0,Facebook,Yes,10,2.4444444444444446,Single,5,7.916666666666667
+585,25,Female,Student,Bangladesh,8.0,Facebook,Yes,8,1.6111111111111107,Single,4,8.75
+586,25,Female,Student,Bangladesh,10.0,Facebook,Yes,10,1.5,In Relationship,4,10.0
+587,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,1.7222222222222214,In Relationship,3,8.75
+588,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+589,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+590,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+591,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+592,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+593,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+594,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+595,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+596,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+597,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+598,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+599,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+600,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+601,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+602,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+603,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+604,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+605,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+606,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+607,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+608,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+609,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+610,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+611,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+612,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+613,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+614,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+615,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+616,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+617,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+618,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+619,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+620,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+621,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+622,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+623,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+624,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+625,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+626,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+627,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+628,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+629,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+630,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+631,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+632,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+633,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+634,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+635,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+636,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+637,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+638,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+639,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+640,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+641,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+642,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+643,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+644,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+645,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+646,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+647,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+648,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+649,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+650,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+651,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+652,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+653,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+654,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+655,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+656,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+657,25,Male,Student,Bangladesh,10.0,Facebook,Yes,10,2.666666666666667,Single,5,8.416666666666668
+658,25,Male,Student,Bangladesh,10.0,Facebook,No,10,2.2222222222222223,Single,3,9.5
+659,35,Female,Self-employed,Bangladesh,10.0,Facebook,Yes,8,1.5,In Relationship,3,9.333333333333334
+660,35,Male,Unemployed,Bangladesh,10.0,Facebook,Yes,10,2.0,Complicated,4,9.5
+661,25,Male,Unemployed,Bangladesh,10.0,Facebook,Yes,10,1.5,Complicated,5,9.333333333333334
+662,70,Female,Retired,Bangladesh,10.0,Instagram,Yes,8,1.9444444444444446,Married,2,9.166666666666668
+663,35,Male,Unemployed,Bangladesh,8.0,LinkedIn,No,10,2.666666666666667,In Relationship,4,8.25
+664,50,Female,Employed,Bangladesh,5.0,Tiktok,Yes,10,1.5,Single,4,8.25
+665,25,Male,Employed,Bangladesh,8.0,Facebook,Yes,10,2.666666666666667,Single,2,10.0
+666,35,Female,Self-employed,Bangladesh,5.0,YouTube,Yes,8,1.3888888888888893,Single,4,9.5
+667,25,Male,Self-employed,Bangladesh,8.0,Instagram,Yes,8,2.9444444444444446,Single,4,7.0
+668,35,Female,Employed,Bangladesh,5.0,Facebook,No,6,4.611111111111112,In Relationship,5,7.333333333333333
+669,35,Male,Self-employed,Bangladesh,5.0,Facebook,Yes,8,1.6111111111111107,Complicated,3,7.916666666666667
+670,35,Male,Employed,Bangladesh,8.0,Instagram,Yes,10,0.0,Single,5,9.833333333333332
+671,35,Female,Retired,Bangladesh,8.0,"Facebook, Instagram",No,6,2.2222222222222223,Complicated,5,7.916666666666667
+672,25,Female,Self-employed,Bangladesh,8.0,LinkedIn,Yes,6,1.5,Single,3,6.333333333333334
+673,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+674,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+675,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+676,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+677,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+678,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+679,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+680,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+681,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+682,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+683,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+684,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+685,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+686,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+687,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+688,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+689,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+690,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+691,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+692,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+693,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+694,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+695,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+696,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+697,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+698,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+699,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+700,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+701,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+702,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+703,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+704,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+705,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+706,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+707,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+708,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+709,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+710,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+711,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+712,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+713,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+714,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+715,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+716,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+717,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+718,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+719,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+720,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+721,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+722,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+723,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+724,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+725,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+726,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+727,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+728,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+729,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+730,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+731,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+732,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+733,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+734,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+735,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+736,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+737,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+738,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+739,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+740,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+741,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+742,25,Male,Student,Bangladesh,8.0,Facebook,No,10,2.9444444444444446,Single,5,6.083333333333333
+743,50,Male,Employed,Bangladesh,10.0,Facebook,No,10,3.7222222222222223,Married,3,7.166666666666667
+744,35,Male,Unemployed,Bangladesh,8.0,Facebook,No,8,4.222222222222223,Single,4,5.416666666666667
+745,35,Male,Unemployed,Bangladesh,10.0,Facebook,Yes,10,1.6111111111111107,Complicated,4,8.25
+746,35,Male,Unemployed,Bangladesh,10.0,Facebook,No,10,4.888888888888889,Complicated,4,5.833333333333333
+747,16,Female,Student,Bangladesh,5.0,Tiktok,Yes,8,3.5,Single,2,6.666666666666667
+748,25,Male,Self-employed,Bangladesh,8.0,Facebook,Yes,8,1.6666666666666679,Single,5,8.583333333333332
+749,35,Female,Unemployed,Bangladesh,8.0,Facebook,Yes,8,2.5,Complicated,3,7.0
+750,50,Male,Self-employed,Bangladesh,8.0,LinkedIn,Yes,8,3.2777777777777777,Married,5,7.166666666666667
